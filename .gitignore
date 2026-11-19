@@ -1,2 +1,7 @@
 .env
 /src/
+.env.api
+__pycache__/
+.pytest_cache/
+.venv-api/
+/dados/
